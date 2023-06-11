@@ -1,0 +1,8 @@
+<!-- This is the example.html example file. -->
+<html><head><title>dupl ustc home</title></head>
+<body>
+<font size="16">
+<p>Download our <strong>MUSSIM</strong> book from <a href="./MUSSIM.docx">here</a>.</p>
+<p class="slogan">Learn DEOM the easy way!</p>
+<p>By <span id="author">Mussim Uers Group </span></p>
+</font></body></html>
